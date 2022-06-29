@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Andrew Ledwaba 
 - 👀 I’m interested in software development,Data Science,Web development 
 - 🌱 I’m currently learning software Development 
+-🌱 I’m currently Data Science
 
 
 
